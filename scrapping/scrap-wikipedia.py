@@ -34,6 +34,3 @@ def scrap_table_wikipedia (url, df_number=0):
         else: df = dfs[0] # default: get 1st dataframe
 
     return df
-
-
-    
